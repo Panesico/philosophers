@@ -1,0 +1,5 @@
+/Users/jorgfern/CLionProjects/philosophers/cmake-build-debug/CMakeFiles/LIBFT.dir
+/Users/jorgfern/CLionProjects/philosophers/cmake-build-debug/CMakeFiles/PHILO.dir
+/Users/jorgfern/CLionProjects/philosophers/cmake-build-debug/CMakeFiles/philosophers.dir
+/Users/jorgfern/CLionProjects/philosophers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jorgfern/CLionProjects/philosophers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

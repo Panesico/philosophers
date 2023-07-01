@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "philosophers",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LIBFT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LIBFT-Debug-d78412837334ca23d20a.json",
+					"name" : "LIBFT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PHILO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PHILO-Debug-ca0608e8e7a0a130548a.json",
+					"name" : "PHILO",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "philosophers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-philosophers-Debug-eec8c388d05407e6586c.json",
+					"name" : "philosophers",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jorgfern/CLionProjects/philosophers/cmake-build-debug",
+		"source" : "/Users/jorgfern/CLionProjects/philosophers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
